@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BookStore\\BooksApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9518FC72-F91A-40FB-9540-38A0EA4B5223}|BooksApi\\BooksApi.csproj|d:\\bookstore\\booksapi\\booksapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9518FC72-F91A-40FB-9540-38A0EA4B5223}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\BookStore\\BooksApi\\BooksApi\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BooksApi\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\BookStore\\BooksApi\\BooksApi\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BooksApi\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:39:51.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
